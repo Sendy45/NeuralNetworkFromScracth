@@ -3,6 +3,10 @@ A fully connected neural network implemented from scratch using **NumPy**, witho
 Supports forward propagation, backpropagation, multiple activation functions, different loss functions, and L2 regularization.
 
 ---
+## Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Sendy45/NeuralNetworkFromScracth/blob/main/NN.ipynb)
 
 ## Features
 
