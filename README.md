@@ -62,7 +62,6 @@ Where:
 nn = NeuralNetwork(
     layer_sizes=[784, 128, 64, 10],
     activations=["relu", "relu", "softmax"],
-    init_type="he"
 )
 
 nn.train(X_train, y_train, epochs=50, lr=0.01, lambda_=0.001)
